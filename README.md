@@ -1,5 +1,4 @@
 # GitHub Profile display 
-Functionality 1
 
 User GitHub Profile
    - Taking User input for <username> and then used in GET api
